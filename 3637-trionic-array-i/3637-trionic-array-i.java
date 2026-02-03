@@ -9,14 +9,14 @@ class Solution {
         while (i + 1 < n && nums[i] < nums[i + 1]) {
             i++;
         }
-        if (i == 0) return false;
+        if (i == 0) return false;   // no increasing
         int p = i;
 
         // 2️⃣ strictly decreasing
         while (i + 1 < n && nums[i] > nums[i + 1]) {
             i++;
         }
-        if (i == p) return false;
+        if (i == p) return false;   // no decreasing
         int q = i;
 
         // 3️⃣ strictly increasing
@@ -24,6 +24,7 @@ class Solution {
             i++;
         }
 
-        return i == n - 1;
+        // ✅ must end at last index AND third segment must exist
+        return i == n - 1 && q < n - 1;
     }
 }

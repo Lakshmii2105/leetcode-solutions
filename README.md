@@ -13,4 +13,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0198-house-robber](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0198-house-robber](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 <!---LeetCode Topics End-->

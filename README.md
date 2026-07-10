@@ -35,4 +35,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0136-single-number/) | Easy |
+| [0190-reverse-bits](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->

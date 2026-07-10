@@ -16,6 +16,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0198-house-robber](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0274-h-index](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0274-h-index/) | Medium |
 ## Dynamic Programming
@@ -30,4 +31,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0274-h-index/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->

@@ -18,6 +18,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0198-house-robber](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
@@ -44,10 +45,15 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0190-reverse-bits](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->

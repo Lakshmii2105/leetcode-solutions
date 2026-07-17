@@ -4,6 +4,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0258-add-digits](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -62,4 +63,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->

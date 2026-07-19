@@ -58,6 +58,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
@@ -74,6 +75,11 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->

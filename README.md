@@ -4,6 +4,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0050-powx-n](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0258-add-digits](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0258-add-digits/) | Easy |

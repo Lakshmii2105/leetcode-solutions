@@ -32,6 +32,7 @@
 | [0136-single-number](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0198-house-robber](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0274-h-index](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0274-h-index/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/2670-find-the-distinct-difference-array/) | Easy |
@@ -46,6 +47,7 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0274-h-index](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0274-h-index/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -100,4 +102,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2670-find-the-distinct-difference-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/2670-find-the-distinct-difference-array/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->

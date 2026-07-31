@@ -52,6 +52,7 @@
 | [0088-merge-sorted-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0274-h-index](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0274-h-index/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -59,6 +60,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0274-h-index/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Bit Manipulation
@@ -99,6 +101,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## String Matching
@@ -114,6 +117,7 @@
 | ------- | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/2670-find-the-distinct-difference-array/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -127,4 +131,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 <!---LeetCode Topics End-->

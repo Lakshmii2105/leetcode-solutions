@@ -43,6 +43,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -123,6 +124,7 @@
 | [2670-find-the-distinct-difference-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |

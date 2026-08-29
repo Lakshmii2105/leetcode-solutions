@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
+| [0202-happy-number](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [0486-predict-the-winner](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -89,6 +90,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0202-happy-number](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
@@ -128,6 +130,7 @@
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0202-happy-number](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -150,4 +153,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->

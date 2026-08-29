@@ -34,6 +34,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0035-search-insert-position](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0198-house-robber](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
@@ -94,6 +95,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0035-search-insert-position](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |

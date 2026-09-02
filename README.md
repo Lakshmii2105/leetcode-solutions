@@ -19,6 +19,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |

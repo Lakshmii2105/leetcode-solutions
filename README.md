@@ -52,6 +52,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +130,7 @@
 | ------- | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |

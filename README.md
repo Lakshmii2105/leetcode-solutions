@@ -94,6 +94,7 @@
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0202-happy-number](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
@@ -116,6 +117,7 @@
 | [0013-roman-to-integer](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0125-valid-palindrome](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |

@@ -48,6 +48,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/2670-find-the-distinct-difference-array/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -110,6 +111,7 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0486-predict-the-winner](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +145,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Heap (Priority Queue)
@@ -166,4 +169,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->

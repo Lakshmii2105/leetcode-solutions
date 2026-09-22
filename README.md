@@ -175,4 +175,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0182-duplicate-emails](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->

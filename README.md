@@ -70,6 +70,7 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0274-h-index](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0274-h-index/) | Medium |
+| [0389-find-the-difference](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -90,6 +91,7 @@
 | [0191-number-of-1-bits](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
+| [0389-find-the-difference](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -131,6 +133,7 @@
 | [0058-length-of-last-word](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0389-find-the-difference](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -153,6 +156,7 @@
 | [0012-integer-to-roman](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0202-happy-number](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
+| [0389-find-the-difference](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |

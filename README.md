@@ -13,6 +13,7 @@
 | [0231-power-of-two](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0486-predict-the-winner](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -87,6 +88,7 @@
 | [0190-reverse-bits](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -116,6 +118,7 @@
 | [0050-powx-n](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0486-predict-the-winner](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## String

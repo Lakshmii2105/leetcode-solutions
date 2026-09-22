@@ -15,6 +15,7 @@
 | [0326-power-of-three](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0486-predict-the-winner](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Lakshmii2105/leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
